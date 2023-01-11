@@ -203,9 +203,6 @@ while True:
                     engine.say('opening maps')
                     engine.runAndWait()
                     webbrowser.open('https://www.google.com/maps/@26.7157504,88.4015104,13z')
-               if 'Anubhab' in query:
-                    engine.say('sir Anubhab is my creator')
-                    engine.runAndWait()
                if 'Focus' in query:
                     engine.say('sir i know its little hard but you can do it dont lose hope sir')
                     engine.runAndWait()
