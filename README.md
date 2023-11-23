@@ -56,4 +56,4 @@ pip install pywikihow.
 
 Now install these package and you are good to go.
 If you face any issue, leave a comment.
-You might face few issue if you directly download this code , as few resources are not avialiable. So use it carefully.
+You might face few issue if you directly download this code , as few resources are not avialiable. So use it carefully. And you need to use your own API Key of wolframealpha.
